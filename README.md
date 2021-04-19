@@ -1,2 +1,2 @@
 # Data_Science_Capstone
-Coursera_project for analysing neighbourhood data
+Project for analysing neighbourhood data of Toronto
